@@ -1,0 +1,8 @@
+openai
+requests
+beautifulsoup4
+playwright
+slack_sdk
+notion-client
+python-dotenv
+schedule
